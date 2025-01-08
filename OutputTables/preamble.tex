@@ -1,0 +1,88 @@
+PassOptionsToPackage{usenames,dvipsnames}{xcolor}
+\documentclass[11pt,letterpaper]{article}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[authoryear]{natbib}
+\usepackage[caption=false]{subfig}
+\usepackage{lscape}
+\usepackage{multirow}
+\usepackage{ae,aecompl,geometry,float,framed,rotfloat,amsthm,soul,amsmath,
+amssymb,graphicx,todonotes,xcolor,setspace,enumitem,sectsty, colortbl,
+booktabs,rotating,microtype,soul,units,bbm,mathtools,tipa,fancybox,makecell,palatino,verbatim}
+\usepackage{subfiles}
+
+
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in,includefoot}
+
+%\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in,includefoot}
+\usepackage{hyperref}
+  \hypersetup{colorlinks=true,citecolor=Bittersweet,linkcolor=Bittersweet,urlcolor=Bittersweet}
+\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+%\setlength{\parskip}{0.5ex plus 0.5ex minus 0.2ex}
+%\setlength{\parindent}{7.5ex}
+\makeatletter
+\newcommand{\noun}[1]{\textsc{#1}}
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand*\Diff[1]{\mathop{}\!\mathrm{d^#1}}
+\newcommand{\mk}[1]{\sethlcolor{yellow} \hl{Mariana: #1}} % highlight parts of the text
+\newcommand{\mz}[1]{\sethlcolor{SkyBlue} \hl{#1}} % highlight parts of the text
+\theoremstyle{plain}
+\newtheorem{thm}{\protect\theoremname}
+  \theoremstyle{plain}
+  \newtheorem{lem}{\protect\lemmaname}
+  \theoremstyle{definition}
+  \newtheorem{defn}{\protect\definitionname}
+  \theoremstyle{plain}
+  \newtheorem{cor}{\protect\corollaryname}
+  \theoremstyle{plain}
+  \newtheorem{prop}{\protect\propositionname}
+  \theoremstyle{plain}
+  \newtheorem*{cor*}{\protect\corollaryname}
+\newcounter{asscount}
+\setcounter{asscount}{0}
+\def\sgn{\mathop{\rm sgn}\nolimits}
+\newtheorem{sublemma}{Sublemma}[section]
+\newtheorem{subcor}{Corollary}[section]
+\newtheorem{hypth}{Hypothesis}
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newtheoremstyle{assumption}
+  {0.2cm}{0cm}%                                 margin top and bottom
+  {\rmfamily}%                                  text layout
+  {0cm}%                                        indention of header
+  {\bfseries}{ }%                               header font and text after
+  {0cm}%                                        space after header
+  {\thmname{#1}\thmnumber{ #2}:\thmnote{ #3}}%  header
+\theoremstyle{assumption}
+\newtheorem{ass}{Assumption}
+
+\def\!{\mskip-\thickmuskip}
+\def\?{\!\!\!}
+
+\definecolor{LightCyan}{rgb}{0.94, 0.97, 1}
+
+\@ifundefined{showcaptionsetup}{}{%
+ \PassOptionsToPackage{caption=false}{subfig}}
+\usepackage{subfig}
+\makeatother
+  \providecommand{\corollaryname}{Corollary}
+  \providecommand{\definitionname}{Definition}
+  \providecommand{\lemmaname}{Lemma}
+  \providecommand{\propositionname}{Proposition}
+\providecommand{\theoremname}{Theorem}
+
+\newcommand{\note}[1]{\hl{#1}} % note highlighted in text
+%\renewcommand{\note}[1]{} % do not display notes
+\newcommand{\hlt}[1]{\hl{#1}} % highlight parts of the text
+%\renewcommand{\hlt}[1]{#1} % turn highlighting off
+\newcommand{\minus}{\scalebox{0.5}{$-$}}
+\newcommand{\plus}{\scalebox{0.6}{$+$}}
+
+\usepackage[framemethod=tikz]{mdframed}
+\usetikzlibrary{shadows}
+\newmdenv[shadow=true,shadowcolor=black,rightmargin=8pt]{shadedbox}
+%font=\sffamily,
+
+\usepackage{titling}
+
+\setlength{\droptitle}{-5em}

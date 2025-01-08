@@ -1,0 +1,30 @@
+\documentclass[]{article}
+\setlength{\pdfpagewidth}{8.5in} \setlength{\pdfpageheight}{11in}
+\begin{document}
+\begin{tabular}{lcccccc}
+\multicolumn{7}{c}{Market crash indicator} \\ \hline
+ & (1) & (2) & (3) & (4) & (5) & (6) \\
+VARIABLES & (Tobit) & (Tobit) & (Tobit) & (OLS) & (OLS) & (OLS) \\ \hline
+ &  &  &  &  &  &  \\
+Gamified & 3.21*** & 3.15*** & 3.09*** & 0.03** & 0.03** & 0.03** \\
+ & (5.87) & (5.50) & (5.45) & (2.25) & (2.27) & (2.27) \\
+High risk & -6.22*** &  & -6.14*** & 0.15*** &  & 0.15*** \\
+ & (-13.43) &  & (-13.26) & (11.13) &  & (11.26) \\
+Quiz score & 0.85 &  &  & -0.01 &  &  \\
+ & (1.41) &  &  & (-0.99) &  &  \\
+Age & -2.67*** &  &  & -0.03*** &  &  \\
+ & (-4.95) &  &  & (-3.77) &  &  \\
+Gender: Female & -1.71 &  &  & -0.02 &  &  \\
+ & (-1.39) &  &  & (-1.22) &  &  \\
+Round & -2.10*** &  &  & -0.03*** &  &  \\
+ & (-7.30) &  &  & (-4.08) &  &  \\
+Constant & 33.60*** & 30.06*** & 32.86*** & 0.27*** & 0.33*** & 0.26*** \\
+ & (34.57) & (38.47) & (38.60) & (20.69) & (34.10) & (23.61) \\
+ &  &  &  &  &  &  \\
+Observations & 4,765 & 4,780 & 4,780 & 4,765 & 4,780 & 4,780 \\
+R-squared &  &  &  & 0.03 & 0.00 & 0.03 \\
+ Pseudo R2 & 0.0106 & 0.000997 & 0.00486 &  &  &  \\ \hline
+\multicolumn{7}{c}{ Robust t-statistics in parentheses} \\
+\multicolumn{7}{c}{ *** p$<$0.01, ** p$<$0.05, * p$<$0.1} \\
+\end{tabular}
+\end{document}

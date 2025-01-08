@@ -1,0 +1,37 @@
+Trading time									
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	(Tobit)	(OLS)	(Tobit)	(OLS)	(Tobit)	(OLS)	(Tobit)	(OLS)
+									
+gamified	Gamified	3.21***	2.86***	2.98***	2.70***	2.82***	2.82***	3.76**	3.10**
+		(3.93)	(5.04)	(4.14)	(6.08)	(5.57)	(6.58)	(2.46)	(3.41)
+gamified_score	Game $\times$ Quiz score	-1.30*	-0.50						
+		(-1.94)	(-0.85)						
+high_crashrisk	High risk	-6.22***	-4.85***	-6.22***	-4.84***	-6.20***	-4.81***	-6.23***	-4.84***
+		(-12.91)	(-12.96)	(-11.64)	(-12.19)	(-12.51)	(-12.26)	(-12.82)	(-12.46)
+FinScore_std	Quiz score	1.49*	1.08						
+		(1.81)	(1.78)						
+age_std	Age	-2.66***	-1.62***	-2.56***	-1.59***	-2.65***	-1.61***	-2.60***	-1.58***
+		(-5.36)	(-3.89)	(-5.03)	(-3.82)	(-5.33)	(-3.86)	(-5.27)	(-3.81)
+female	Gender: Female	-1.72	-2.36**	-2.07*	-2.70**	-2.23*	-2.81**	-2.10*	-2.71**
+		(-1.41)	(-2.51)	(-1.69)	(-2.82)	(-1.80)	(-2.90)	(-1.72)	(-2.81)
+round_std	Round	-2.08***	0.12	-2.11***	0.08	-2.13***	0.08	-2.10***	0.10
+		(-6.83)	(0.72)	(-6.45)	(0.47)	(-6.56)	(0.44)	(-6.69)	(0.59)
+gamified_course	Game $\times$ Finance course			1.42	1.18				
+				(1.21)	(0.65)				
+playercourse_financial	Finance course			1.16	-0.05				
+				(0.61)	(-0.03)				
+gamified_major_econmgmt	Game $\times$ Business major					1.54	0.21		
+						(0.85)	(0.27)		
+major_finance_mgt	Business major					-2.60	-1.65		
+						(-1.33)	(-1.40)		
+gamified_postgrad	Game $\times$ Postgraduate							-1.29	-0.50
+								(-0.64)	(-0.42)
+postgrad	Postgraduate							2.70**	1.57
+								(2.01)	(1.49)
+Constant	Constant	33.59***	24.63***	33.57***	24.78***	34.49***	25.23***	32.62***	24.12***
+		(29.18)	(33.73)	(27.80)	(34.08)	(25.98)	(31.64)	(25.67)	(29.32)
+									
+Observations		4,765	2,800	4,765	2,800	4,765	2,800	4,765	2,800
+R-squared			0.08		0.07		0.08		0.08
+Robust t-statistics in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

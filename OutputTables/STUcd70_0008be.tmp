@@ -1,0 +1,22 @@
+	(1)	(2)	(3)
+VARIABLES	(1)	(2)	(3)
+			
+gamified	0.03	0.03	0.03
+	(0.85)	(0.83)	(0.83)
+high_crashrisk	-0.01		-0.01
+	(-0.30)		(-0.28)
+FinScore_std	-0.01		
+	(-0.89)		
+age_std	-0.04		
+	(-1.69)		
+female	-0.05		
+	(-0.90)		
+round_std	0.02		
+	(0.72)		
+Constant	0.11**	0.08**	0.08***
+	(3.03)	(3.43)	(4.76)
+			
+Observations	632	632	632
+R-squared	0.02	0.00	0.00
+Robust t-statistics in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

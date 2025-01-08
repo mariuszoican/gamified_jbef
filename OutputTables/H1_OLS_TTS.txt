@@ -1,0 +1,23 @@
+Trading time						
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	(OLS)	(OLS)	(OLS)	(OLS)	(OLS)
+						
+gamified	Gamified	2.86***	2.92***	2.84***	2.79***	2.83***
+		(6.49)	(6.54)	(6.41)	(6.30)	(6.42)
+high_crashrisk	High risk	-4.86***		-4.87***	-4.91***	-4.87***
+		(-11.59)		(-11.59)	(-11.65)	(-11.55)
+FinScore_std	Quiz score	0.84*			1.04**	1.11***
+		(1.89)			(2.39)	(2.59)
+age_std	Age	-1.62***				-1.61***
+		(-3.97)				(-3.96)
+female	Gender: Female	-2.35**				
+		(-2.58)				
+round_std	Round	0.11			0.12	0.11
+		(0.47)			(0.51)	(0.49)
+Constant	Constant	24.63***	21.15***	23.49***	23.52***	23.57***
+		(36.44)	(44.12)	(42.43)	(42.64)	(42.96)
+						
+Observations		2,800	2,808	2,808	2,808	2,800
+R-squared		0.08	0.01	0.05	0.05	0.07
+Robust t-statistics in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

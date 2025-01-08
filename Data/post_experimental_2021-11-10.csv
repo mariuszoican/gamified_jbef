@@ -1,0 +1,286 @@
+﻿participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.time_started,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.role,player.payoff,player.gender,player.age,player.email,player.nationality,player.education,player.study_major,player.course_financial,player.experiment_before,player.trading_experience,player.online_trading_experience,player.trading_frequency,player.portfolio_frequency,player.asset_class,player.use_leverage,player.purpose,player.difficulty,player.vars_dump,group.id_in_subsession,subsession.round_number,session.code,session.label,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,n7ec7axs,,0,1,24,pretrade,Instructions,2021-11-09 15:42:50.778277+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,1pxumzt4,,,,,0
+1,ccmtbj07,,0,1,24,pretrade,Instructions,2021-11-09 15:43:08.704086+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,kx5lw3zk,,,,,1
+2,wk7pt6c3,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,kx5lw3zk,,,,,1
+1,g1tw2yyw,,0,1,24,pretrade,Instructions,2021-11-09 15:43:35.253195+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,by50jyfo,,,,,0
+1,aqd51b41,,0,1,24,pretrade,Instructions,2021-11-09 15:47:58.416997+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,mquvh0uj,,,,,0
+1,my7m34l6,,0,1,24,pretrade,Instructions,2021-11-09 15:49:43.701499+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,t7cu1c9g,,,,,1
+2,8vk4itda,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,t7cu1c9g,,,,,1
+1,8w3h2qjm,,0,21,24,post_experimental,FinQuiz,2021-11-09 16:09:04.365875+00:00,1,,,25,1,,0,,,,CA,,,,,,,,,,,,,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 8}",1,1,m0wj7zzw,,,,,0
+1,493q7a8z,,0,18,24,trader_wrapper,Trader,2021-11-09 16:17:11.020656+00:00,1,,,24,1,,0,,,,CA,,,,,,,,,,,,,,1,1,0s3k1nn3,,,,,1
+2,3bedphey,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,0s3k1nn3,,,,,1
+1,jpwnp3az,,0,0,24,,,,0,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,r71bns8g,,,,,1
+2,1jdk3ti2,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,r71bns8g,,,,,1
+1,oaygs266,,0,18,24,trader_wrapper,Trader,2021-11-09 16:33:46.340214+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,gfdif87o,,,,,0
+1,csn6nzb0,,0,1,24,pretrade,Instructions,2021-11-09 18:15:01.168114+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,8oqis79g,,,,,1
+2,m2ujlncx,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,8oqis79g,,,,,1
+1,j7ti4nk8,,0,1,24,pretrade,Instructions,2021-11-09 19:15:45.999297+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,z7xf8db9,,,,,1
+2,jdcrhwpk,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,z7xf8db9,,,,,1
+1,x6cdheyz,,0,22,24,post_experimental,Q,2021-11-09 19:32:55.640169+00:00,1,,,4,1,,4,,,,CA,,,,,,,,,,,,,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,dh7r5iyh,,,,,0
+1,fr81kd59,,0,21,24,post_experimental,FinQuiz,2021-11-09 19:44:22.478973+00:00,1,,,25,1,,0,,,,CA,,,,,,,,,,,,,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 3}",1,1,ma1xu8r5,,,,,0
+1,pvazinua,,0,5,24,trader_wrapper,AnnounceTrader,2021-11-09 20:54:41.368822+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,nihw2wi6,,,,,0
+1,p53goaab,,0,0,24,,,,0,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,8wg13bod,,,,,1
+2,8luiecpx,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,8wg13bod,,,,,1
+1,ijo5askl,,0,4,24,trader_wrapper,Trader,2021-11-09 21:17:15.701144+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,wvbwdvzo,,,,,1
+2,oznlo2i5,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,wvbwdvzo,,,,,1
+1,pqimea6a,,0,0,24,,,,0,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,ydrm4yvj,,,,,1
+2,hzs2osdw,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,ydrm4yvj,,,,,1
+1,fjzmi2h5,,0,2,24,pretrade,CQPage,2021-11-09 21:26:41.485367+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,43o2m3n3,,,,,1
+2,h4gdygi2,,0,1,24,pretrade,Instructions,2021-11-09 21:28:10.392775+00:00,1,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,43o2m3n3,,,,,1
+1,7xayjqkm,,0,1,24,pretrade,Instructions,2021-11-09 21:28:48.376462+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,ipfqq4e0,,,,,0
+1,mqxx38sb,,0,1,24,pretrade,Instructions,2021-11-09 21:29:17.495972+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,vh2ddi78,,,,,1
+2,cl6hui4e,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,vh2ddi78,,,,,1
+1,glb9og0u,,0,1,24,pretrade,Instructions,2021-11-09 21:29:55.865106+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,2o7aqyn2,,,,,1
+2,zdtv6x8k,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,2o7aqyn2,,,,,1
+1,xppu8lfx,,0,1,24,pretrade,Instructions,2021-11-09 21:36:19.148804+00:00,1,,,0,1,,0,,,,CA,,,,,,,,,,,,,,1,1,vcb8yeyk,,,,,1
+2,efy66yz7,,0,0,24,,,,0,,,0,2,,0,,,,CA,,,,,,,,,,,,,,1,1,vcb8yeyk,,,,,1
+1,kzksst8e,611ff1e1ce043b057bf632c3,0,24,24,post_experimental,FinalForProlific,2021-11-09 22:22:29.067040+00:00,1,,,7,1,,7,Female,33,611ff1e1ce043b057bf632c3@email.prolific.co,CA,undergraduate: 4th year,Other,0,0,1,0,Less than once a month,Less than once a month,Stocks,Do not know,Understand the trading psychology,Couldnt think of many calculation,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+2,wtc56i9b,6151fa2a75f20752350d8005,0,24,24,post_experimental,FinalForProlific,2021-11-09 22:31:00.261966+00:00,1,,,7,2,,7,Male,36,olnsbr@gmail.com,BR,master,Other,0,0,0,0,Less than once a month,Less than once a month,Stocks,Do not know,See people behavior on losses,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+3,eik454hk,5a6107bb31b87a0001c6c49b,0,24,24,post_experimental,FinalForProlific,2021-11-09 22:32:44.234873+00:00,1,,,39,3,,4,Female,31,Charcryer@hotmail.co.uk,GB,high-school graduate,Other,0,0,0,0,Less than once a month,Less than once a month,Cryptocurrencies,No,I’m not sure,Yes I don’t fully understand trades,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+4,d9i2vi2g,616a3cc5d22ea7399f61ffe5,0,24,24,post_experimental,FinalForProlific,2021-11-09 22:55:57.844316+00:00,1,,,8,4,,8,Male,19,Cameronwilson24@hotmail.com,GB,high-school graduate,Other,1,1,1,1,Daily,Weekly,Stocks,Yes,See trading knowledge,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+5,z93aepdr,5fce7f5873c4b10c213c22e2,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:00:05.776961+00:00,1,,,38,5,,8,Male,20,rohanwhoughton@gmail.com,GB,undergraduate: 1st year,Other,0,0,0,0,Less than once a month,Less than once a month,Stocks,Do not know,To see how people would imagine trading money with regards to risk and reward and trying to see the flaws in some of the systems with regards to that.,Nope,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+6,ra25fxy0,614762388a0aab39fa450e1f,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:09:50.825677+00:00,1,,,44,6,,7,Male,25,roelandre@li.com,CA,undergraduate: 3d year,Other,0,0,1,1,Weekly,Weekly,Cryptocurrencies,No,To better understand how people from different majors understand market technical analysis and general economics.,No.,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+7,ym4q9fcm,616b125aba41fa53757827a2,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:20:58.496874+00:00,1,,,20,7,,9,Male,48,marcio.lotierzo@shaw.ca,CA,undergraduate: 4th year,Other,0,0,0,0,Less than once a month,Less than once a month,Bonds,No,Capture the knowledge regarding Investments and the individual behavior when trading,"No difficulty to follow instructions, but was difficult to predict crashes","{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+8,6sygj5i2,603efa18289f8b1cbfc11465,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:26:22.647154+00:00,1,,,7,8,,7,Male,20,owenknox1@hotmail.co.uk,GB,high-school graduate,Other,0,1,0,1,Monthly,Weekly,Cryptocurrencies,No,Trading on a digital platform,Nope,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+9,l79on4pr,6163fcea4e22af8fea70d506,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:26:26.697524+00:00,1,,,9,9,,9,Female,30,ewa.zielinska@mixbox.pl,PL,master,Other,0,0,1,1,Weekly,Daily,Stocks,No,Learning about people's financial knowledge and behavior.,No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+10,0vfkrc97,615ff0a96223d68565b4d0f8,0,2,24,pretrade,CQPage,2021-11-09 23:30:45.460610+00:00,1,,,0,10,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+11,cct95kr5,6153352b5740835692c093d3,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:32:28.376492+00:00,1,,,29,11,,6,Male,36,caltras@gmail.com,BR,undergraduate: 4th year,Other Management,0,0,1,1,Monthly,Daily,Stocks,No,Help people to improve the financial skills,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+12,vl7x4ene,5e116aabe632e18120366134,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:49:56.757237+00:00,1,,,23,12,,8,Male,36,Joibox+prolific@gmail.com,CA,undergraduate: 2nd year,Other Management,0,1,1,1,Weekly,Monthly,Cryptocurrencies,No,Financial literacy,Nope,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+13,v0cqymun,6100cfba720bca31a22c637f,0,24,24,post_experimental,FinalForProlific,2021-11-09 23:52:30.701539+00:00,1,,,21,13,,5,Female,19,dagta.io@gmail.com,CA,undergraduate: 2nd year,Other,0,1,1,1,Less than once a month,Weekly,Cryptocurrencies,No,Testing how a person reacts and deals with the probability of a crash,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+14,43omyu30,616caec53dc08dca017cef12,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:03:49.911937+00:00,1,,,25,14,,9,Female,27,annie.perets@gmail.com,AU,undergraduate: 3d year,Other,1,0,1,1,Monthly,Daily,Cryptocurrencies,No,Test how I would trade in the environment you created.,"No, it was fun.","{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+15,oa18pjy7,6167781e0fcfd7e0e423df9d,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:04:10.669604+00:00,1,,,22,15,,8,Female,41,rosiebutler03@yahoo.com.au,AU,master,Other,0,1,1,0,Less than once a month,Less than once a month,Stocks,No,"To understand people's trading patterns. Such as if the risk increases (when the chance of the stock crashing goes up), do people trade more conservatively. Also, the impact of previous losses or wins. Also, the correlation between how much people understand the stock market and finances in general with their trading behaviour.",No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+16,3qua64su,607c9a9eebae7b6598a2b7e3,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:05:04.378677+00:00,1,,,4,16,,4,Female,34,Korneliaklimczyk@gmail.com,GB,high-school graduate,Other,0,1,1,0,Less than once a month,Weekly,Stocks,No,Check if people do that type of investment,Yes,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+17,z0qsv8q5,5f8d17ad018e591938a0b0bf,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:07:26.932883+00:00,1,,,10,17,,10,Female,27,dincerrel@gmail.com,TR,undergraduate: 4th year,Other Management,0,0,1,1,Monthly,Daily,Stocks,No,understanding individual's trade decisions,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+18,26t3h0hh,5fb2ddb925a37f9a1774289e,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:12:00.575399+00:00,1,,,35,18,,9,Male,33,tycho014@outlook.com,CA,undergraduate: 4th year,Finance,1,0,1,1,Less than once a month,Daily,Stocks,No,Test people's risk appetites,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+19,n7luyf44,616ca673bda04a2cc1da7d9a,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:14:58.008958+00:00,1,,,26,19,,10,Female,61,w_ross@rocketmail.com,CA,MBA,Other,0,0,1,1,Monthly,Multiple times a day,Stocks,No,Risk taking in the stock market,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+20,zumj7xxa,60fdbf183311480ac538de4f,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:16:15.424235+00:00,1,,,25,20,,7,Female,21,elianysbonilla7@gmail.com,US,undergraduate: 1st year,Other,0,0,1,1,Less than once a month,Monthly,Stocks,Do not know,The purpose of this study was to see how much people know about investment.,"No, everything went well.","{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+21,shebrfms,5d9d209a000c6d0012a201ce,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:19:51.406487+00:00,1,,,8,21,,8,Male,29,danny456larouche@gmail.com,CA,undergraduate: 1st year,Other Management,0,1,1,0,Less than once a month,Weekly,Cryptocurrencies,No,"not sure. something to do with behavior/attention (because of the pop-ups?) I don't know!    price crashed only when the pop-ups were there for me btw. Kinda went against the ""past performance doesnt warrant future results"" mantra I was thinking. Trading with pop-ups always crashed.",no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+22,cyvs2mes,5ec85e9240ce74335fcd7b64,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:22:57.847402+00:00,1,,,10,22,,10,Male,25,jhuyn064@gmail.com,CA,undergraduate: 4th year,Other,0,0,1,1,Monthly,Weekly,Stocks,No,To see the overall knowledge of an average person when it comes to investing,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+23,37q4fido,6111a33cae0764e0ce34948e,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:28:45.116598+00:00,1,,,37,23,,8,Male,66,simpamz@gmail.com,CA,high-school graduate,Other,0,1,0,0,Less than once a month,Monthly,Stocks,Do not know,Risk,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+24,lxfqmc7n,6160011304f5319ece189bfa,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:34:02.858655+00:00,1,,,31,24,,5,Female,23,Sophiegoulden@me.com,GB,high-school graduate,Other,0,1,1,1,Monthly,Weekly,Stocks,Do not know,To get an understanding of the risks of trading,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+25,7tli727n,5eb183542546160a0fb11776,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:34:43.067474+00:00,1,,,25,25,,9,Male,20,michaelg.horrocks@gmail.com,GB,undergraduate: 3d year,Other,0,1,1,1,Monthly,Daily,Stocks,No,To examine the trading trends and risk taking based off varying factors.,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+26,053q5pef,614f558d28318a7cd715fe39,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:36:44.734365+00:00,1,,,24,26,,10,Male,36,no,CA,undergraduate: 4th year,Finance,1,0,1,1,Less than once a month,Weekly,Stocks,No,to investigate how retail investors trade on digital platforms,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+27,1ab3cuht,60f76e32523f14e719281209,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:40:25.162908+00:00,1,,,25,27,,8,Male,34,ddabengwa@gmail.com,CA,undergraduate: 4th year,Other,1,0,0,0,Less than once a month,Less than once a month,Cryptocurrencies,No,to assess the capacity of risk of  a person.,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+28,kn74b0qv,6022a0828a2f593f00a0660a,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:40:54.658479+00:00,1,,,26,28,,7,Female,30,organizestdotcom@gmail.com,GB,undergraduate: 3d year,Other Management,0,0,1,1,Weekly,Daily,Stocks,No,Learn about investment behavior,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+29,jxrsc2xq,607d7d6891e0aa664c39b548,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:48:30.331398+00:00,1,,,26,29,,9,Male,19,maxosborne00@gmail.com,GB,undergraduate: 1st year,Other,0,0,1,1,Weekly,Daily,Cryptocurrencies,No,To see how people would invest their money,No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+30,ydew1e7y,616850294dfb713316b572a9,0,1,24,pretrade,Instructions,2021-11-10 00:49:57.306384+00:00,1,,,0,30,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+31,0f0wk0h0,61686623f90bb04019819dce,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:52:28.844559+00:00,1,,,8,31,,8,Male,26,not interested,BD,master,Other,0,1,1,1,Daily,Multiple times a day,Stocks,No,How much risk people are comfortable with,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+32,hgslsxeg,6107693b5a8463c5a6551d18,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:54:18.464361+00:00,1,,,25,32,,8,Female,40,tamarargodin@gmail.com,CA,undergraduate: 3d year,Other,0,1,1,1,Less than once a month,Daily,Stocks,No,To see what patterns in stock performance impact people’s decision to sell or ride out,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+33,1kpab8w0,616e56623d2703c5e461b85c,0,24,24,post_experimental,FinalForProlific,2021-11-10 00:59:53.951683+00:00,1,,,6,33,,6,Female,41,cece.piwo@gmail.com,CA,undergraduate: 4th year,Other Management,0,1,1,0,Less than once a month,Less than once a month,Stocks,No,Risk?,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+34,r225pk58,60ef59583fc217f4cd5cf646,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:03:05.327262+00:00,1,,,40,34,,10,Male,20,Nigarnan.s@gmail.com,CA,undergraduate: 4th year,Other,0,0,1,1,Weekly,Daily,Stocks,No,determine risk management based on one's competence.,N/A,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+35,20ke17js,6119d6a6ebf2b78c17889a77,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:03:21.943384+00:00,1,,,5,35,,5,Female,29,joeymanaligod@gmail.com,CA,master,Other,0,1,0,0,Less than once a month,Less than once a month,Stocks,Do not know,To assess risk when trading stocks in crypto,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+36,8d9c3qd9,60ee03ea8f3320183c11a6bc,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:04:15.280128+00:00,1,,,40,36,,7,Male,23,Jacobpeterson2142@hotmail.com,CA,undergraduate: 4th year,Other,0,1,1,1,Monthly,Weekly,Stocks,No,Stock knowledge,Nope!,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+37,m38fv8um,6101f712de0992a4af203535,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:04:43.584559+00:00,1,,,17,37,,7,Female,19,soniakleung@gmail.com,CA,undergraduate: 2nd year,Other,0,1,0,1,Less than once a month,Less than once a month,Stocks,No,To see if probability of the market crashing has an effect on how quickly someone is willing to sell. Also to see if ads/pop-ups influence a person's judgement.,No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+38,yu2cpitw,6103963326eaa88f27347d8e,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:06:13.946702+00:00,1,,,6,38,,6,Female,24,joaneangela@gmail.com,CA,undergraduate: 4th year,Other,0,1,0,0,Less than once a month,Less than once a month,Stocks,Do not know,to help understand how people invest,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+39,eween4ii,5f37f69f5365a529f8a5b89c,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:08:34.248841+00:00,1,,,27,39,,9,Male,19,5f37f69f5365a529f8a5b89c@email.prolific.co,GB,undergraduate: 2nd year,Other,0,0,0,1,Less than once a month,Weekly,Stocks,No,Assess how much risk someone will take on investments against how much they know about investing.,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+40,5sui6qsz,5ee585ae9776d12d016afb8b,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:09:29.994923+00:00,1,,,25,40,,9,Male,46,5ee585ae9776d12d016afb8b@email.prolific.co,CA,undergraduate: 4th year,Other,0,1,1,1,Monthly,Daily,Stocks,No,"The pain of losses, and if we try to avoid them",no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+41,a2vn99wx,5fb3e1f589c682033dea8dff,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:09:35.895105+00:00,1,,,18,41,,6,Male,19,lawriepashley@gmail.com,GB,undergraduate: 2nd year,Other,1,0,1,1,Less than once a month,Monthly,Stocks,No,To see the extent traders understand the environment they trade in,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+42,6dy57clg,616d25cc0bbc41cad64343c2,0,1,24,pretrade,Instructions,2021-11-10 01:09:47.602715+00:00,1,,,0,42,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+43,6pzupwsq,6125230c27a1058e12fe7f91,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:13:24.054070+00:00,1,,,18,43,,5,Female,22,sadiabegum1802@gmail.com,GB,master,Other,0,1,0,1,Monthly,Weekly,Stocks,Do not know,To measure trading choices and behaviour,The popups,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+44,u3x2gfh3,615d9dcad89961a0da9e8de5,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:13:53.631715+00:00,1,,,4,44,,4,Male,38,ademichaelz@gmail.com,CA,master,Other,0,0,1,1,Daily,Weekly,Cryptocurrencies,No,Basic Financial/investment Education Understanding.,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+45,tjf8qe9c,61603c291745170dd03fb884,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:14:05.140164+00:00,1,,,7,45,,7,Male,31,carloserdrz@outlook.com,CA,undergraduate: 4th year,Other Management,1,1,0,0,Less than once a month,Weekly,Stocks,No,To help understand the basic understanding of the financial markets and trading on variable test subjects.,None,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+46,ulb2i9pu,61757420cb85caeab53af573,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:14:48.300090+00:00,1,,,21,46,,7,Male,32,ajo.kacmar@gmail.com,SK,master,Other Management,0,0,0,1,Less than once a month,Weekly,Stocks,No,To establish investing knowledge of different demographics,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+47,cky89lzz,61096c31a40d3f7fcea0fb5a,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:18:36.559778+00:00,1,,,5,47,,5,Female,22,n,US,undergraduate: 4th year,Other,0,1,0,0,Less than once a month,Less than once a month,Stocks,No,seeing how the gen population understands the trading stocks,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+48,2ynx51q8,615f1197a3e9470d5dec32f0,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:19:11.010993+00:00,1,,,24,48,,6,Female,22,elvosancak@gmail.com,GB,undergraduate: 3d year,Other,0,0,0,0,Less than once a month,Less than once a month,Stocks,No,To learn normal people knowledge about this topic,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+49,b0z4981u,615080dde912be18c24ce8b7,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:21:40.384205+00:00,1,,,21,49,,7,Male,37,lukesiemens@gmail.com,CA,master,Other,0,1,1,1,Less than once a month,Multiple times a day,Stocks,No,Determine how people act on an online trading app.,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+50,hyvib9md,612c826776994ea24cb0e54b,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:23:06.836748+00:00,1,,,20,50,,5,Male,19,cameronnguyen999@gmail.com,AU,undergraduate: 1st year,Other,1,0,0,1,Monthly,Weekly,Cryptocurrencies,No,to find investor patterns,nope,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+51,o0eo199t,60c3c6cbffd0cd3816219e84,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:27:41.281687+00:00,1,,,23,51,,11,Male,27,huangziou209@gmail.com,CN,master,Finance,1,0,1,1,Monthly,Weekly,Stocks,No,To see if financial knowledge helps people make investment decisions more rational,No. Typically sell when increase 10%,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+52,6qe4xl2o,616b31b7a2cc25bc31097c01,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:28:14.961845+00:00,1,,,27,52,,8,Male,31,ramiroduran200@yahoo.com,US,undergraduate: 2nd year,Other,1,0,1,1,Multiple times a day,Multiple times a day,Stocks,Yes,To find out how much people pay attention to patterns in the markets. The way the candles flow up and down is game theory down to it's very essence. Also to gauge just how much people understand how the stock market works in theory.,Nope,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+53,m6p3l3k5,616a0a911e7d1e9b04074110,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:29:47.741529+00:00,1,,,24,53,,10,Male,26,evs2795@gmail.com,US,undergraduate: 4th year,Other,1,0,1,1,Monthly,Daily,Stocks,Yes,To see how educated people are when it comes to investing?,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+54,u1a2eufs,5f03a15f1b5e6d2d577ad4ae,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:29:52.617773+00:00,1,,,43,54,,8,Male,23,pettipasjosh@hotmail.com,CA,undergraduate: 4th year,Other,0,1,1,1,Weekly,Weekly,Stocks,No,to see if risk and previous stock trend affects decision making,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+55,csvp6fav,5f11fdf8357f7a119b38db05,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:31:03.807090+00:00,1,,,8,55,,8,Male,27,shadowyoshi8@hotmail.com,CA,undergraduate: 4th year,Other,0,0,1,1,Less than once a month,Daily,Stocks,No,To determine how risk affects your level of trading wealth relative to the market.,No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+56,i9d4uc20,6176908f9f7e2f4d376579f9,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:31:28.328428+00:00,1,,,6,56,,6,Male,24,jaykoj@googlemail.com,GB,master,Other,0,1,0,0,Less than once a month,Less than once a month,Stocks,Do not know,Investigate impact of website design/pressures on behaviour on stock trading sites,None,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+57,0e49dy1z,6170bed4c39df7b03e656595,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:33:52.461501+00:00,1,,,23,57,,4,Female,34,jalmeida.enf@gmail.com,BR,undergraduate: 4th year,Other,0,0,1,0,Less than once a month,Less than once a month,Stocks,Do not know,To know people's knowledge and interest in investments.,"Yes, since I don't have many experiences with investments.","{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+58,gkoo8cma,61732799130bb3d84b3dbe37,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:34:28.669477+00:00,1,,,11,58,,11,Female,23,sharan98@yahoo.com,IN,master,Other,0,0,1,1,Monthly,Weekly,Stocks,No,Financial literacy,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+59,6xapj0hd,611635fa1d80ee24bf2ee97a,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:36:17.312451+00:00,1,,,6,59,,6,Male,23,611635fa1d80ee24bf2ee97a@email.prolific.co,CA,undergraduate: 2nd year,Other,0,1,0,1,Less than once a month,Monthly,Stocks,Do not know,to see how financially literate the gen pop is? To see if the average person knows the basics of investments,nope!,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+60,1y2p685x,616af797957fa399568a7d58,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:37:07.536746+00:00,1,,,7,60,,7,Male,45,ricardo.lims@gmail.com,CA,master,Other,0,0,0,1,Less than once a month,Monthly,Cryptocurrencies,No,quite elaborate and with well-targeted questions,some concepts were unfamiliar,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+61,5llfbklj,5cfc19ae3ce1c80001ddd88d,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:38:26.327319+00:00,1,,,5,61,,5,Male,26,mozzy963@hotmail.com,AU,undergraduate: 2nd year,Other,0,1,1,1,Weekly,Weekly,Stocks,No,peoples stock experience,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+62,2wututnc,614e16143f7ba19d39637115,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:38:29.711620+00:00,1,,,3,62,,3,Male,33,bright.chidiebere@yahoo.com,CA,undergraduate: 1st year,Economics,0,1,1,1,Daily,Multiple times a day,Stocks,No,to gain knowledge of trading habits,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+63,qqt1o6u4,613ec9c9f5dfe3915a080394,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:38:55.376825+00:00,1,,,25,63,,6,Female,25,jennifer-rebecca@hotmail.com,CA,undergraduate: 4th year,Other,1,1,1,1,Less than once a month,Weekly,Cryptocurrencies,Yes,To get a better understanding of individuals knowledge when trading stocks.,No.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+64,9r80a77x,61624a8096e30edac3a0685a,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:41:40.989387+00:00,1,,,8,64,,8,Female,24,asimahrizvi@hotmail.com,GB,undergraduate: 3d year,Other,0,0,1,1,Weekly,Daily,Stocks,No,To see how knowledge of the financial markets affects how stocks are traded on.,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+65,11b8cunt,61319890f27be8782ab7aead,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:42:00.039365+00:00,1,,,6,65,,6,Female,23,ef19i@my.fsu.edu,US,undergraduate: 4th year,Other,0,1,1,1,Less than once a month,Weekly,Stocks,Do not know,no clue,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+66,l1rs6m7t,5adfba63e0feeb0001caead8,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:43:02.288755+00:00,1,,,44,66,,9,Male,39,r.olivar@gmail.com,PH,undergraduate: 3d year,Other,0,1,1,0,Less than once a month,Less than once a month,Stocks,No,To gain data on the habits and mindsets of retail traders,No,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+67,txfqqvp0,613e173def27821dff1c47ad,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:44:24.495660+00:00,1,,,8,67,,8,Male,22,tube.raze@gmail.com,US,undergraduate: 4th year,Other,1,0,1,1,Daily,Multiple times a day,Stocks,No,To understand the mind of a person when exposed to trading.,no difficulties,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 6}",1,1,9pqvaeel,,,,,0
+68,ncik57ga,60fdd43a701bcc27bb0aa5a5,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:44:26.113697+00:00,1,,,31,68,,10,Female,21,r.benmoussa@elaraki.ac.ma,MA,undergraduate: 4th year,Finance,1,1,1,1,Less than once a month,Monthly,Cryptocurrencies,No,Understanding perceived risk on trading habits,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+69,z0vx4m41,60feed7496112f1b1704b41e,0,1,24,pretrade,Instructions,2021-11-10 01:45:10.339653+00:00,1,,,0,69,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+70,ngab0n17,616cc12e30cdf2af9fd49725,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:46:16.899311+00:00,1,,,6,70,,6,Female,19,mfarhadi0523@gmail.com,US,undergraduate: 2nd year,Other,0,0,0,0,Less than once a month,Less than once a month,Stocks,Do not know,The purpose may of just been to see peoples general knowledge on finances,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+71,7gobkypf,5f977a3273ca1a04b1221750,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:46:31.340075+00:00,1,,,28,71,,9,Male,21,samm.morriss@gmail.com,GB,undergraduate: 3d year,Finance,1,0,1,1,Daily,Daily,Cryptocurrencies,Yes,see how people manage risk,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+72,0cfoyoxq,609d5ff7e35868789e7cf21f,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:46:57.981876+00:00,1,,,3,72,,3,Female,24,no,JP,undergraduate: 4th year,Other,0,1,1,1,Monthly,Weekly,Stocks,No,no,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+73,h0ihztzw,614f64db8a598d8a45d300b8,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:48:30.615586+00:00,1,,,9,73,,9,Female,39,danihartleyhea@gmail.com,CA,undergraduate: 4th year,Other,0,1,0,1,Less than once a month,Less than once a month,Stocks,No,"to show how ineffectual individual stock trading is    (+80% of stocks are owned by less than 10%, the market is pointless)","no, it was interesting","{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+74,yi16f1xm,5d8a9c127b9a0c001adb65d7,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:49:11.980812+00:00,1,,,21,74,,5,Male,23,cristianoronaldo9@hotmail.ca,CA,MBA,Other,0,1,1,1,Weekly,Multiple times a day,Stocks,No,No idea,N/A,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+75,6j77ez91,5a5ec79cacc75b00017aa095,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:49:52.735715+00:00,1,,,9,75,,9,Male,21,sylezaow@gmail.com,CA,undergraduate: 4th year,Other,0,1,1,1,Less than once a month,Weekly,Stocks,No,Analyzing the tendency to partake in risky trading behavior when influenced by distractors and various stimuli,Nope,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+76,ss37l6g0,6107dfb398d59423d0d31f89,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:50:38.214385+00:00,1,,,26,76,,2,Female,24,rosetti.li@hotmail.com,CA,master,Other,0,1,1,1,Less than once a month,Less than once a month,Stocks,Do not know,Observing trading behaviour based on knowledge of the market,no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+77,bjjwofg3,6152495859853a1fdf5344dd,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:52:38.240732+00:00,1,,,9,77,,9,Male,22,jimmy.chiou@yahoo.ca,CA,undergraduate: 4th year,Other,0,1,1,1,Monthly,Monthly,Stocks,No,How platform layout effects trading decisions,None,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 4}",1,1,9pqvaeel,,,,,0
+78,dz2tp1ww,6172f9bf1c90302309a07d38,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:52:58.110865+00:00,1,,,24,78,,10,Male,19,edmondchang7526@gmail.com,CA,undergraduate: 2nd year,Finance,1,0,1,1,Less than once a month,Less than once a month,Stocks,No,The purpose of this study was to see if there is any correlation between a traders knowledge and how risk aversed they are.,No.,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 2}",1,1,9pqvaeel,,,,,0
+79,8a8jo333,61459be797c9650ece9bcc0a,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:54:03.121585+00:00,1,,,27,79,,6,Male,61,bradh099@gmail.com,AU,undergraduate: 4th year,Other,0,0,0,0,Less than once a month,Less than once a month,Stocks,No,to see how the images on the later rounds effected decision making,no,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 9}",1,1,9pqvaeel,,,,,0
+80,o4djtjp6,5dacdf401e90f600132de0e6,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:55:10.002186+00:00,1,,,29,80,,9,Male,21,perssonjoel158@gmail.com,GB,did not graduate high school,Other,0,1,1,1,Less than once a month,Daily,Cryptocurrencies,No,Looking at how people weigh up risk to reward with semi-virtual funds. Perhaps seeing if younger/older people are more/less restrained.,None,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 5}",1,1,9pqvaeel,,,,,0
+81,b7l8xff1,616215ec61eba5c4c7003214,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:58:18.098734+00:00,1,,,7,81,,7,Male,32,johnhead270@gmail.com,CA,high-school graduate,Other,0,1,1,1,Less than once a month,Weekly,Stocks,No,"Honestly, I don't know. I thought all the distractions during the final phase of the experiment had something to do with it. Like, maybe I'll sell if I feel panicky? My judgement will be hindered if I feel pressured. Not sure, really.",Not really.,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 7}",1,1,9pqvaeel,,,,,0
+82,f0gxmg0m,610795348ea45fee821c52a3,0,24,24,post_experimental,FinalForProlific,2021-11-10 01:59:42.626017+00:00,1,,,29,82,,8,Female,40,dndrson@TELUS.net,CA,undergraduate: 1st year,Other Management,0,1,1,0,Less than once a month,Less than once a month,Stocks,No,"determining the behaviours of trades across a varied database of expertise, life experience and education, determining which groups are willing to take risks and if so what is their threshold",no,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+83,z998rey4,60eae063631343db8507234d,0,24,24,post_experimental,FinalForProlific,2021-11-10 02:00:35.738616+00:00,1,,,37,83,,9,Female,29,maria.plazas@hotmail.com,CA,undergraduate: 4th year,Other,1,1,1,1,Less than once a month,Weekly,Stocks,No,How design elements can impact client response,No,"{""treatments"": [false, false, false, false, true, true, true, true], ""payable_round"": 3}",1,1,9pqvaeel,,,,,0
+84,qhbr140i,5d4387a198bbda0001775a46,0,24,24,post_experimental,FinalForProlific,2021-11-10 02:02:18.254409+00:00,1,,,38,84,,8,Male,24,adrianspence13@gmail.com,AU,undergraduate: 3d year,Other,0,0,1,1,Weekly,Monthly,Cryptocurrencies,Yes,To investigate how retail investors trade on digital platforms.,No.,"{""treatments"": [true, true, true, true, false, false, false, false], ""payable_round"": 8}",1,1,9pqvaeel,,,,,0
+85,sztaab0g,,0,0,24,,,,0,,,0,85,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+86,kcjj0o9v,,0,0,24,,,,0,,,0,86,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+87,ernnuc86,,0,0,24,,,,0,,,0,87,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+88,dt69gpmv,,0,0,24,,,,0,,,0,88,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+89,12tgdobg,,0,0,24,,,,0,,,0,89,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+90,vd8vnx2c,,0,0,24,,,,0,,,0,90,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+91,z3tmjqhy,,0,0,24,,,,0,,,0,91,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+92,zwu5p2su,,0,0,24,,,,0,,,0,92,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+93,nefx7dtc,,0,0,24,,,,0,,,0,93,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+94,1q5xnto5,,0,0,24,,,,0,,,0,94,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+95,5f5mymji,,0,0,24,,,,0,,,0,95,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+96,nux5861f,,0,0,24,,,,0,,,0,96,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+97,9y7q3t9o,,0,0,24,,,,0,,,0,97,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+98,z6watkg8,,0,0,24,,,,0,,,0,98,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+99,vb0t0yhe,,0,0,24,,,,0,,,0,99,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+100,w2dbm9t2,,0,0,24,,,,0,,,0,100,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+101,hb4psmon,,0,0,24,,,,0,,,0,101,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+102,at23wmu4,,0,0,24,,,,0,,,0,102,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+103,drgrvags,,0,0,24,,,,0,,,0,103,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+104,9ibgox6d,,0,0,24,,,,0,,,0,104,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+105,hyyus4r6,,0,0,24,,,,0,,,0,105,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+106,03gbm9un,,0,0,24,,,,0,,,0,106,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+107,dn5m7tua,,0,0,24,,,,0,,,0,107,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+108,4uwe7nzx,,0,0,24,,,,0,,,0,108,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+109,3qyor233,,0,0,24,,,,0,,,0,109,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+110,kpka8po3,,0,0,24,,,,0,,,0,110,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+111,xdyupbgz,,0,0,24,,,,0,,,0,111,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+112,yq6pxb3o,,0,0,24,,,,0,,,0,112,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+113,hi3k6p42,,0,0,24,,,,0,,,0,113,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+114,u18rdlbd,,0,0,24,,,,0,,,0,114,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+115,q59f0foc,,0,0,24,,,,0,,,0,115,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+116,q17st92j,,0,0,24,,,,0,,,0,116,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+117,m2q2ithb,,0,0,24,,,,0,,,0,117,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+118,wl5pxm3c,,0,0,24,,,,0,,,0,118,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+119,xoiu7tmz,,0,0,24,,,,0,,,0,119,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+120,io1noes9,,0,0,24,,,,0,,,0,120,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+121,jg4ywy7k,,0,0,24,,,,0,,,0,121,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+122,c3owdpmw,,0,0,24,,,,0,,,0,122,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+123,vcglrfkk,,0,0,24,,,,0,,,0,123,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+124,io75ymtf,,0,0,24,,,,0,,,0,124,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+125,xv59f0u5,,0,0,24,,,,0,,,0,125,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+126,uoxmbucc,,0,0,24,,,,0,,,0,126,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+127,hf5k31bf,,0,0,24,,,,0,,,0,127,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+128,u2xjs3iv,,0,0,24,,,,0,,,0,128,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+129,5le93lv3,,0,0,24,,,,0,,,0,129,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+130,o1xp9pik,,0,0,24,,,,0,,,0,130,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+131,xuoowdj6,,0,0,24,,,,0,,,0,131,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+132,mu152qc1,,0,0,24,,,,0,,,0,132,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+133,z519ttat,,0,0,24,,,,0,,,0,133,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+134,tbu21s5e,,0,0,24,,,,0,,,0,134,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+135,n93kzp85,,0,0,24,,,,0,,,0,135,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+136,xxpg2w1b,,0,0,24,,,,0,,,0,136,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+137,o2au25wg,,0,0,24,,,,0,,,0,137,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+138,toq2tb5y,,0,0,24,,,,0,,,0,138,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+139,75yn8gty,,0,0,24,,,,0,,,0,139,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+140,nskmdq8o,,0,0,24,,,,0,,,0,140,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+141,4cdf3xic,,0,0,24,,,,0,,,0,141,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+142,4i4qczfv,,0,0,24,,,,0,,,0,142,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+143,ot9pc2lw,,0,0,24,,,,0,,,0,143,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+144,q3bl9cn0,,0,0,24,,,,0,,,0,144,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+145,0at42jy2,,0,0,24,,,,0,,,0,145,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+146,3kq8bxed,,0,0,24,,,,0,,,0,146,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+147,ywydfi1c,,0,0,24,,,,0,,,0,147,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+148,uhswshs3,,0,0,24,,,,0,,,0,148,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+149,q7y0w7wq,,0,0,24,,,,0,,,0,149,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+150,tsja3j2s,,0,0,24,,,,0,,,0,150,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+151,rjj8lmp6,,0,0,24,,,,0,,,0,151,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+152,a2gbwddk,,0,0,24,,,,0,,,0,152,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+153,beyk2gzn,,0,0,24,,,,0,,,0,153,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+154,xmokm5wd,,0,0,24,,,,0,,,0,154,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+155,k78wxi0o,,0,0,24,,,,0,,,0,155,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+156,j57e4jz8,,0,0,24,,,,0,,,0,156,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+157,jxggk31j,,0,0,24,,,,0,,,0,157,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+158,238v2yx7,,0,0,24,,,,0,,,0,158,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+159,x8pxyc7i,,0,0,24,,,,0,,,0,159,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+160,210ovrxn,,0,0,24,,,,0,,,0,160,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+161,stnmsdke,,0,0,24,,,,0,,,0,161,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+162,xp8jtd5r,,0,0,24,,,,0,,,0,162,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+163,e6chrpka,,0,0,24,,,,0,,,0,163,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+164,7yz0oore,,0,0,24,,,,0,,,0,164,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+165,4f8fit0e,,0,0,24,,,,0,,,0,165,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+166,pco0x0nu,,0,0,24,,,,0,,,0,166,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+167,l8vvb9dh,,0,0,24,,,,0,,,0,167,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+168,ee8prni6,,0,0,24,,,,0,,,0,168,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+169,3dyevr9p,,0,0,24,,,,0,,,0,169,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+170,uzssyy9o,,0,0,24,,,,0,,,0,170,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+171,wi7pgkoz,,0,0,24,,,,0,,,0,171,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+172,wu47zx67,,0,0,24,,,,0,,,0,172,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+173,gz8rhl1u,,0,0,24,,,,0,,,0,173,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+174,sonymdob,,0,0,24,,,,0,,,0,174,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+175,mwmlxi2r,,0,0,24,,,,0,,,0,175,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+176,gsc8p3y7,,0,0,24,,,,0,,,0,176,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+177,flm4x7d0,,0,0,24,,,,0,,,0,177,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+178,zkklbai3,,0,0,24,,,,0,,,0,178,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+179,lxvhu2hs,,0,0,24,,,,0,,,0,179,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+180,74b2now0,,0,0,24,,,,0,,,0,180,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+181,mujb8grk,,0,0,24,,,,0,,,0,181,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+182,53vzf6hg,,0,0,24,,,,0,,,0,182,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+183,v18wrzzu,,0,0,24,,,,0,,,0,183,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+184,xziovrnw,,0,0,24,,,,0,,,0,184,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+185,3m57vcm3,,0,0,24,,,,0,,,0,185,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+186,6ejsswvf,,0,0,24,,,,0,,,0,186,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+187,e4aiex6q,,0,0,24,,,,0,,,0,187,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+188,f32avv2y,,0,0,24,,,,0,,,0,188,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+189,x06bn7vv,,0,0,24,,,,0,,,0,189,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+190,dhgymqhp,,0,0,24,,,,0,,,0,190,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+191,23b4yq88,,0,0,24,,,,0,,,0,191,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+192,9md70svy,,0,0,24,,,,0,,,0,192,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+193,jf2ss9qw,,0,0,24,,,,0,,,0,193,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+194,4fa31a39,,0,0,24,,,,0,,,0,194,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+195,fcqr0qp6,,0,0,24,,,,0,,,0,195,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+196,vj6vaicd,,0,0,24,,,,0,,,0,196,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+197,eacnfs23,,0,0,24,,,,0,,,0,197,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+198,nqnvheyl,,0,0,24,,,,0,,,0,198,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+199,nlk21ofr,,0,0,24,,,,0,,,0,199,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+200,sbzlfm6s,,0,0,24,,,,0,,,0,200,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+201,rhjs8ch3,,0,0,24,,,,0,,,0,201,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+202,qt8ttsxj,,0,0,24,,,,0,,,0,202,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+203,ujuxs1tm,,0,0,24,,,,0,,,0,203,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+204,snzt0xig,,0,0,24,,,,0,,,0,204,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+205,ka409msz,,0,0,24,,,,0,,,0,205,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+206,4tl66ixs,,0,0,24,,,,0,,,0,206,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+207,qb9zy5l5,,0,0,24,,,,0,,,0,207,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+208,306hcbv0,,0,0,24,,,,0,,,0,208,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+209,re82ayna,,0,0,24,,,,0,,,0,209,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+210,gjzq6ykp,,0,0,24,,,,0,,,0,210,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+211,axnhlt83,,0,0,24,,,,0,,,0,211,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+212,szlpp6bp,,0,0,24,,,,0,,,0,212,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+213,i03rnvgi,,0,0,24,,,,0,,,0,213,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+214,rt192yap,,0,0,24,,,,0,,,0,214,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+215,wem2r0oq,,0,0,24,,,,0,,,0,215,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+216,lwoyv1si,,0,0,24,,,,0,,,0,216,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+217,l52baysf,,0,0,24,,,,0,,,0,217,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+218,w3t5u57o,,0,0,24,,,,0,,,0,218,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+219,4ru0gw45,,0,0,24,,,,0,,,0,219,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+220,xydwxofk,,0,0,24,,,,0,,,0,220,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+221,ev5yhvbu,,0,0,24,,,,0,,,0,221,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+222,g8ov1evu,,0,0,24,,,,0,,,0,222,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+223,0jh7xaya,,0,0,24,,,,0,,,0,223,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+224,jgpauy5y,,0,0,24,,,,0,,,0,224,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+225,3txofq0s,,0,0,24,,,,0,,,0,225,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+226,ewgo292k,,0,0,24,,,,0,,,0,226,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+227,q8oai0j3,,0,0,24,,,,0,,,0,227,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+228,p6wt4qjr,,0,0,24,,,,0,,,0,228,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+229,gy4jo6py,,0,0,24,,,,0,,,0,229,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+230,jb5qb25o,,0,0,24,,,,0,,,0,230,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+231,yk113trf,,0,0,24,,,,0,,,0,231,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+232,ac6ixawv,,0,0,24,,,,0,,,0,232,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+233,onzz3vkh,,0,0,24,,,,0,,,0,233,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+234,l2cc4qyh,,0,0,24,,,,0,,,0,234,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+235,kb556oq0,,0,0,24,,,,0,,,0,235,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+236,1639jyu6,,0,0,24,,,,0,,,0,236,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+237,wah7sx1e,,0,0,24,,,,0,,,0,237,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+238,jbxj6ksz,,0,0,24,,,,0,,,0,238,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+239,iw3mzf6l,,0,0,24,,,,0,,,0,239,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+240,l1njbb1j,,0,0,24,,,,0,,,0,240,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+241,3mlyha35,,0,0,24,,,,0,,,0,241,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+242,l9k1p7rb,,0,0,24,,,,0,,,0,242,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+243,1lxhd89g,,0,0,24,,,,0,,,0,243,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+244,znazy5wr,,0,0,24,,,,0,,,0,244,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+245,6ttkhm9e,,0,0,24,,,,0,,,0,245,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+246,k4de311s,,0,0,24,,,,0,,,0,246,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+247,42vbox34,,0,0,24,,,,0,,,0,247,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+248,7si0nwoe,,0,0,24,,,,0,,,0,248,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+249,h89k5jk8,,0,0,24,,,,0,,,0,249,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0
+250,71rsc3bq,,0,0,24,,,,0,,,0,250,,0,,,,CA,,,,,,,,,,,,,,1,1,9pqvaeel,,,,,0

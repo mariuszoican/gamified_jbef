@@ -1,0 +1,37 @@
+Trading time							
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	(Tobit)	(Tobit)	(Tobit)	(Tobit)	(Tobit)	(Tobit)
+							
+gamified	Gamified	2.97***	3.04***	3.77***		2.81***	2.87***
+		(5.01)	(4.96)	(5.42)		(4.39)	(4.26)
+gamified_course	Gamified $\times$ Finance course	1.43	0.67				
+		(0.95)	(0.43)				
+playercourse_financial	Finance course	0.85	2.57				
+		(0.41)	(1.27)				
+high_crashrisk	High risk	-6.23***	-6.17***	-6.24***	-6.16***	-6.21***	-6.13***
+		(-13.43)	(-13.29)	(-13.46)	(-13.31)	(-13.41)	(-13.24)
+FinScore_std	Quiz score	0.75		0.70		0.91	
+		(1.26)		(1.17)		(1.51)	
+age_std	Age	-2.59***		-2.62***		-2.66***	
+		(-4.73)		(-4.88)		(-4.96)	
+female	Gender: Female	-1.72		-1.77		-1.81	
+		(-1.39)		(-1.45)		(-1.47)	
+round_std	Round	-2.11***		-2.10***		-2.12***	
+		(-7.35)		(-7.29)		(-7.34)	
+gamified_postgrad	Gamified $\times$ Postgraduate			-1.31	2.47***		
+				(-1.17)	(2.78)		
+postgrad	Postgraduate			2.50*	1.08		
+				(1.84)	(0.81)		
+playeronline_trading_experience	Online trader				2.75**		
+					(2.28)		
+gamified_major_econmgmt	Gamified $\times$ Business major					1.54	0.85
+						(1.25)	(0.69)
+major_finance_mgt	Business major					-2.74*	-2.16
+						(-1.71)	(-1.36)
+Constant	Constant	33.45***	32.37***	32.55***	32.01***	34.32***	33.40***
+		(34.03)	(36.88)	(29.61)	(29.68)	(33.15)	(36.28)
+							
+Observations		4,765	4,765	4,765	4,765	4,765	4,780
+Pseudo R2		0.0108	0.00541	0.0110	0.00551	0.0110	0.00511
+Robust t-statistics in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

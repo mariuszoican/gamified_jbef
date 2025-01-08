@@ -1,0 +1,23 @@
+Trading time						
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	(Tobit)	(Tobit)	(Tobit)	(Tobit)	(Tobit)
+						
+gamified	Gamified	3.21***	3.15***	3.09***	3.14***	3.16***
+		(5.87)	(5.50)	(5.45)	(5.72)	(5.59)
+high_crashrisk	High risk	-6.22***		-6.14***	-6.25***	-6.13***
+		(-13.43)		(-13.26)	(-13.46)	(-13.26)
+FinScore_std	Quiz score	0.85			0.86	0.85
+		(1.41)			(1.47)	(1.42)
+age_std	Age	-2.67***				-2.66***
+		(-4.95)				(-4.93)
+female	Gender: Female	-1.71				-1.71
+		(-1.39)				(-1.39)
+round_std	Round	-2.10***			-2.12***	
+		(-7.30)			(-7.36)	
+Constant	Constant	33.60***	30.06***	32.86***	32.90***	33.55***
+		(34.57)	(38.47)	(38.60)	(38.74)	(34.59)
+						
+Observations		4,765	4,780	4,780	4,780	4,765
+Pseudo R2		0.0106	0.000997	0.00486	0.00709	0.00870
+Robust t-statistics in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

@@ -1,0 +1,35 @@
+Trading time							
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	(Tobit)	(Tobit)	(Tobit)	(Tobit)	(Tobit)	(Tobit)
+							
+gamified	Gamified	1.11***	1.07***	1.15***	1.09***	1.04***	0.98***
+		(3.61)	(3.43)	(3.05)	(2.82)	(3.40)	(3.12)
+gamified_riskytrader	Gamified $\times$ Risky asset trader	0.62	0.55				
+		(0.82)	(0.70)				
+riskyassetclass	Risky asset trader	-0.37	0.33				
+		(-0.45)	(0.41)				
+high_crashrisk	High risk	-4.06***	-4.07***	-4.05***	-4.04***	-4.05***	-4.06***
+		(-16.86)	(-16.98)	(-16.85)	(-16.81)	(-16.84)	(-16.94)
+FinScore_std	Quiz score	0.45		0.45		0.46	
+		(1.61)		(1.60)		(1.61)	
+age_std	Age	-1.38***		-1.36***		-1.38***	
+		(-5.48)		(-5.07)		(-5.48)	
+female	Gender: Female	-1.08*		-1.05*		-1.07*	
+		(-1.85)		(-1.80)		(-1.85)	
+round_std	Round	-0.67***		-0.67***		-0.67***	
+		(-4.71)		(-4.71)		(-4.72)	
+gamified_onlinetrad	Gamified $\times$ Online trader			0.15	0.25		
+				(0.27)	(0.44)		
+playeronline_trading_experience	Online trader			-0.00	1.31**		
+				(-0.00)	(2.07)		
+gamified_freqtrader	Gamified $\times$ Frequent trader					1.06	1.07
+						(1.40)	(1.42)
+freqtrader	Frequent trader					-0.58	0.23
+						(-0.68)	(0.27)
+Constant	Constant	23.80***	23.16***	23.72***	22.52***	23.83***	23.18***
+		(50.54)	(56.68)	(41.05)	(45.01)	(50.88)	(57.67)
+							
+Observations		4,765	4,780	4,765	4,765	4,765	4,780
+Pseudo R2		0.0146	0.00867	0.0145	0.00957	0.0146	0.00879
+Robust t-statistics in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

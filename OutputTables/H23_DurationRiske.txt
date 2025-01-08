@@ -1,0 +1,14 @@
+		(1)	(2)
+VARIABLES	LABELS	(OLS)	(OLS)
+			
+gamified	Gamified	0.03**	0.03**
+		(2.27)	(2.27)
+high_crashrisk	High risk	0.15***	0.15***
+		(11.26)	(11.26)
+Constant	Constant	0.26***	0.26***
+		(23.61)	(23.61)
+			
+Observations		4,780	4,780
+R-squared		0.03	0.03
+Robust t-statistics in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

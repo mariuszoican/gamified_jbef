@@ -1,0 +1,24 @@
+	(1)	(2)
+VARIABLES	(Tobit)	(Tobit)
+		
+gamified	0.74**	0.64*
+	(2.05)	(1.71)
+gamified_highrisk	1.08**	1.17***
+	(2.53)	(2.71)
+high_crashrisk	-4.58***	-4.64***
+	(-14.93)	(-15.03)
+FinScore_std	0.45	
+	(1.59)	
+age_std	-1.38***	
+	(-5.57)	
+female	-1.07*	
+	(-1.85)	
+round_std	-0.66***	
+	(-4.67)	
+Constant	23.97***	23.48***
+	(52.99)	(59.40)
+		
+Observations	4,765	4,780
+Pseudo R2	0.0147	0.00871
+Robust t-statistics in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

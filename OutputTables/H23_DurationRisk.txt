@@ -1,0 +1,24 @@
+Market crash indicator							
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	(Tobit)	(Tobit)	(Tobit)	(OLS)	(OLS)	(OLS)
+							
+gamified	Gamified	3.21***	3.15***	3.09***	0.03**	0.03**	0.03**
+		(5.87)	(5.50)	(5.45)	(2.25)	(2.27)	(2.27)
+high_crashrisk	High risk	-6.22***		-6.14***	0.15***		0.15***
+		(-13.43)		(-13.26)	(11.13)		(11.26)
+FinScore_std	Quiz score	0.85			-0.01		
+		(1.41)			(-0.99)		
+age_std	Age	-2.67***			-0.03***		
+		(-4.95)			(-3.77)		
+female	Gender: Female	-1.71			-0.02		
+		(-1.39)			(-1.22)		
+round_std	Round	-2.10***			-0.03***		
+		(-7.30)			(-4.08)		
+Constant	Constant	33.60***	30.06***	32.86***	0.27***	0.33***	0.26***
+		(34.57)	(38.47)	(38.60)	(20.69)	(34.10)	(23.61)
+							
+Observations		4,765	4,780	4,780	4,765	4,780	4,780
+R-squared					0.03	0.00	0.03
+Pseudo R2		0.0106	0.000997	0.00486			
+Robust t-statistics in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							
