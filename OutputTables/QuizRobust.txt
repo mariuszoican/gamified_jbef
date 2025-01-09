@@ -1,0 +1,16 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	(OLS)	(OLS)	(OLS)
+				
+playercourse_financial	player.course_financial	0.88***		
+		(3.87)		
+playertrading_experience	player.trading_experience		0.66***	
+			(3.89)	
+playeronline_trading_experience	player.online_trading_experience			0.31*
+				(1.86)
+Constant	Constant	7.23***	6.93***	7.22***
+		(79.71)	(51.61)	(60.75)
+				
+Observations		602	602	602
+R-squared		0.03	0.02	0.01
+Robust t-statistics in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
